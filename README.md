@@ -21,6 +21,8 @@ Results:
 2. Olle     24
 3. Martin   21
 ```
+Now it's clear that Philip and Olle can stay in doors and wait comfortably for his coffee, while Martin have to walk the long long way to the coffee shop. You can of course make up your own rules, and the program basically just ranks players buy their scores.
+
 When the program runs, there is a default delay of 1 second between each round. This is there to add a thrilling component, so you can watch how one wins or loses. (I know, super fun right!?)
 
 ## Usage
